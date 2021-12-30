@@ -9,6 +9,7 @@
     --purple:#bd93f9;
     --white:#f8f8f2;
     --pink:#ff79c6;
+    --green:#50fa7b;
 }
 
 body{
@@ -91,7 +92,7 @@ footer{
 }
 
 a {
-    color: #50fa7b;
+    color: var(--green)
 }
 
 .fab {
