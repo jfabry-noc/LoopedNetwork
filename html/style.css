@@ -98,7 +98,24 @@ footer{
 }
 
 .fab {
-    text-align: center;
-    font-size: 30px;
+    font-size: 35px;
     color: var(--blue)
+}
+
+.fas {
+    font-size: 15px;
+}
+
+#quote{
+    max-width: 675px;
+    width: auto;
+
+    display: block;
+
+    margin: 27px auto;
+}
+.twitter-tweet {
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 17px;
 }
