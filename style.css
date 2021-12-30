@@ -10,6 +10,7 @@
     --white:#f8f8f2;
     --pink:#ff79c6;
     --green:#50fa7b;
+    --orange: #ffb86c;
 }
 
 body{
@@ -91,11 +92,12 @@ footer{
     color: var(--purple);
 }
 
-a {
-    color: var(--green)
+.footer {
+    color: var(--orange)
 }
 
 .fab {
     text-align: center;
     font-size: 30px;
+    color: var(--green)
 }
