@@ -11,6 +11,7 @@
     --pink:#ff79c6;
     --green:#50fa7b;
     --orange: #ffb86c;
+    --blue: #8be9fd;
 }
 
 body{
@@ -99,5 +100,5 @@ footer{
 .fab {
     text-align: center;
     font-size: 30px;
-    color: var(--green)
+    color: var(--blue)
 }
