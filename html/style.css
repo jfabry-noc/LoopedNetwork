@@ -94,12 +94,12 @@ footer{
 }
 
 .footer {
-    color: var(--green)
+    color: var(--green);
 }
 
 .fab {
     font-size: 35px;
-    color: var(--blue)
+    color: var(--blue);
 }
 
 .fas {
@@ -115,4 +115,8 @@ footer{
     margin: auto;
     margin-bottom: 20px;
     padding: 17px;
+}
+
+a {
+    color: var(--green);
 }
