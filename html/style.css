@@ -120,3 +120,7 @@ footer{
 a {
     color: var(--green);
 }
+
+p {
+    font-family: var(--font);
+}
